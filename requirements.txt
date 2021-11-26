@@ -6,7 +6,7 @@ matplotlib
 numpy
 pandas
 Pillow
-pycaret==2.3.5
-scikit_learn==1.0.1
+pycaret
+scikit_learn
 streamlit==1.2.0
 WTForms==2.3.3
